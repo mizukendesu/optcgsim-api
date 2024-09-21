@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "baseBranches": ["renovate-pr"],
+  "extends": ["config:recommended"],
+  "automerge": true,
+  "automergeType": "pr",
+  "automergeComment": "Automerge :rocket:"
+}
